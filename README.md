@@ -60,5 +60,5 @@ Seasonal dips and spikes reflect real-world retail cycles.
 - Standard shipping is the most cost-effective and preferred by customers.
 - Central U.S. regions show lower profitability — potential for market strategy revision.
 
-## Tools Used: Tableau
+Skills Used: Tableau
 
