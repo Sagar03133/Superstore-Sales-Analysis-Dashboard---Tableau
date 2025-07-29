@@ -1,4 +1,4 @@
-#                                   Superstore-Sales-Analysis-Dashboard - Tableau
+#                                   Superstore Data Insights - Tableau
 
 
 ## Goal:
